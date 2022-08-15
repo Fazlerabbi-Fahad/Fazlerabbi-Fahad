@@ -20,5 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazlerabbi-fahad&show_icons=true&locale=en&layout=compact" alt="fazlerabbi-fahad" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazlerabbi-fahad&show_icons=true&locale=en" alt="fazlerabbi-fahad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazlerabbi-fahad&show_icons=true&locale=en" alt="fazlerabbi-fahad" style="background-color:dark"/></p>
 
