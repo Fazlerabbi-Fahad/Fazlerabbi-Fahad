@@ -1,7 +1,7 @@
 <img src='Black and White Modern Linkedin Banner.png'>
 <h1 align="center">Hi there, This is Fazle Rabbi Fahad</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-![Profile views](https://gpvc.arturio.dev/Fazlerabbi-Fahad)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazlerabbi-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="fazlerabbi-fahad" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
