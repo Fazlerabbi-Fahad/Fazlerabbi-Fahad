@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazlerabbi-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="fazlerabbi-fahad" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MongoDB**
 
 - 💬 Ask me about **web development**
 
