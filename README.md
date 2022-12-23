@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MaterialUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fazlerabbi-Fahad](https://github.com/Fazlerabbi-Fahad)
+- 👨‍💻 All of my projects are available at [https://fazlerabbi-fahad.web.app/](https://fazlerabbi-fahad.web.app/)
 
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **fazlerabbifahad.54@gmail.com**
 
-- 📄 Know about my experiences [https://fazlerabbi-fahad.web.app/](https://fazlerabbi-fahad.web.app/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/fazle-rabbi-fahad/](https://www.linkedin.com/in/fazle-rabbi-fahad/)
 
 - ⚡ Fun fact **I think I am human**
 
