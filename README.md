@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazlerabbi-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="fazlerabbi-fahad" /> </p>
 
 
-- 🌱 I’m currently learning **Mongoose**
+- 🌱 I’m currently learning **Basics**
 
 - 👨‍💻 All of my projects are available at [https://fazlerabbi-fahad.web.app/](https://fazlerabbi-fahad.web.app/)
 
