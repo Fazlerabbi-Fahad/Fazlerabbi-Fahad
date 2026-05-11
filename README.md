@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display:flex; align-items:center;justify-content:flex-start;gap:'5px'">
 
 <!-- Frontend -->
 <a href="https://angular.io" target="_blank" rel="noreferrer">
