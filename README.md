@@ -4,11 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fazlerabbi-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="fazlerabbi-fahad" /> </p>
 
-I build and maintain real business software — distribution, inventory, and admin systems serving thousands of daily operations — using **Angular**, **ASP.NET Core**, **C#**, and **SQL Server**. Around six years of full-stack experience across enterprise work and shipped side projects.
+I build and maintain real business software — distribution, inventory, and admin systems serving thousands of daily operations — using **Angular**, **ASP.NET Core**, **C#**, and **SQL Server**. Around two years of full-stack experience across enterprise work and shipped side projects.
 
 - 🏢 By day I build distribution & inventory management systems (Angular + ASP.NET Core, clean architecture)
-- 🚀 Side projects shipped to production: assessment platforms, business tools, reminder apps — built, deployed, handed over
-- 🛠️ Author of [`ng-kickstart`](https://www.npmjs.com/package/ng-kickstart) — an Angular Schematics project scaffolding tool
+- 🚀 Side projects shipped to production: assessment platforms, reminder apps — built, deployed, handed over
 - 💬 Ask me about **Angular, ASP.NET Core, EF Core, SQL Server, and shipping full-stack apps end to end**
 - 📫 Reach me at **fazlerabbifahad.54@gmail.com**
 - 🔗 More about me: [LinkedIn](https://www.linkedin.com/in/fazle-rabbi-fahad/) · [Portfolio](https://fazlerabbi-fahad.web.app/)
